@@ -14,24 +14,6 @@ Currently building strong fundamentals in networking, security concepts, and han
 - ✍️ Sharing my learning journey on **LinkedIn & GitHub**
 - 🌱 Beginner today, security professional in the making
 
----
-
-## 🛠️ Skills & Tools
-**Security & Networking**
-- Networking Fundamentals (OSI, TCP/IP, DNS, HTTP/HTTPS)
-- Basics of Cyber Attacks & Defense
-- Threat Analysis & Security Awareness
-
-**Tools & Platforms**
-- Cisco Packet Tracer
-- Wireshark
-- Linux (Basics)
-- Git & GitHub
-- TryHackMe / Cyber Labs (Beginner level)
-
-**Languages**
-- Python (Basics)
-- Bash (Basics)
 
 ---
 
