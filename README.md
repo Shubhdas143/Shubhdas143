@@ -14,9 +14,6 @@ Currently building strong fundamentals in networking, security concepts, and han
 - ✍️ Sharing my learning journey on **LinkedIn & GitHub**
 - 🌱 Beginner today, security professional in the making
 
----
-# 💫 About Me:
-I’m a passionate cybersecurity student exploring how systems break—and how to secure them better.<br>Currently building strong fundamentals in networking, security concepts, and hands-on labs while documenting my learning journey.
 
 ---
 # 💻 Tech Stack:
