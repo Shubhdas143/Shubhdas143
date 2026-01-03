@@ -35,21 +35,8 @@ Currently building strong fundamentals in networking, security concepts, and han
 
 ---
 
-
-## 🚀 Current Goals
-- Build strong fundamentals in cybersecurity
-- Practice real-world labs & scenarios
-- Contribute consistently on GitHub
-- Grow into a SOC / Security Analyst role
-
----
-
 ## 📫 Connect With Me
 - 💼 LinkedIn: *https://www.linkedin.com/in/shubhdas143/*
 - 🧑‍💻 GitHub: You’re already here 🙂
 - 📧 Email: *shubhdas29004@gmail.com*
 
----
-
-> “Cybersecurity is not just about tools, it’s about mindset.” 🛡️  
-> Always learning. Always improving.
