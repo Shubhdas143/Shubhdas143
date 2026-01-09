@@ -23,7 +23,6 @@ Currently building strong fundamentals in networking, security concepts, and han
 ## 📫 Connect With Me 
 - 💼 LinkedIn: *https://www.linkedin.com/in/shubhdas143/*
 - 🧑‍💻 GitHub: You’re already here 😁
-- 📄 Resume: [Click Here 👈](https://drive.google.com/file/d/1nAf7sUdzqWFBrfZAv40mVzUghNK5Qna9/view?usp=sharing)
 - 📧 Email: *shubhdas29004@gmail.com*
 
 
