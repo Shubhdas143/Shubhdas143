@@ -7,7 +7,7 @@ Currently building strong fundamentals in networking, security concepts, and han
 
 
 
-## 🔐 About Me
+## 🔐 About Me  
 - 🎯 Focused on **Cybersecurity & Network Security**
 - 📚 Interested in **Blue Team, SOC, and Defensive Security**
 - ✍️ Sharing my learning journey on **LinkedIn & GitHub**
