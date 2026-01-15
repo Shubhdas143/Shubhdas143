@@ -68,6 +68,12 @@ Networking  Wireshark  Linux  OWASP  Threat-Detection
 - 🧑‍💻 GitHub: You’re already here 😄  
 - 📧 Email: **shubhdas29004@gmail.com**
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Harshit-2407&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Harshit-2407&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-2407&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 <h3 align="left">💫 Support</h3>
 <p>
