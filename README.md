@@ -1,6 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=E50914&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shubhranshu+Shekhar+Das;Cybersecurity+Student+%7C+SOC+%7C+Blue+Team;Breaking+Systems+%7C+Securing+Futures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=E50914&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Shubhranshu+Shekhar+Das;Cybersecurity+Student+%7C+SOC+%7C+Blue+Team;Defensive+Security+%7C+Threat+Detection" />
 </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhdas143&style=flat-square&color=E50914"/>
+</p>
+
+<p align="center">
+  <b>Cybersecurity student focused on defensive security, network analysis, and SOC operations.</b><br/>
+  <b>Learning how systems break — and how to secure them properly.</b>
+</p>
 
 
 ## 🔐 About Me  
@@ -13,6 +21,10 @@ Cybersecurity Student | SOC & Defensive Security Enthusiast
 ┌──(shubhdas㉿cybersec)-[~/focus]
 └─$ ls
 Networking  Blue-Team  SIEM  Packet-Analysis  Threat-Detection
+
+┌──(shubhdas㉿soc-lab)-[~]
+└─$ skills
+Networking  Wireshark  Linux  OWASP  Threat-Detection
 ```
 
 
