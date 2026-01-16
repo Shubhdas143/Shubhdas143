@@ -62,6 +62,14 @@ Networking  Wireshark  Linux  OWASP  Threat-Detection
 - 🐧 **Kali Linux** – Security testing & labs  
 - 🔧 **Git & GitHub** – Version control & project management
 
+
+## 🌟 Support
+<p>
+  <a href="https://buymeacoffee.com/shubhdas143">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
+  </a>
+</p>
+
 <img alt="Snake animation" src="https://profile-readme-generator.com/assets/snake.svg" />
 
 
@@ -74,9 +82,3 @@ Networking  Wireshark  Linux  OWASP  Threat-Detection
 
 
 
-<h3 align="left">💫 Support</h3>
-<p>
-  <a href="https://buymeacoffee.com/shubhdas143">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
-</p>
