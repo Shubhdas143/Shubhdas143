@@ -60,7 +60,10 @@ Networking  Wireshark  Linux  OWASP  Threat-Detection
 - 🔍 **OWASP ZAP** – Web application vulnerability scanning  
 - 💻 **VS Code & IntelliJ IDEA** – Development & scripting  
 - 🐧 **Kali Linux** – Security testing & labs  
-- 🔧 **Git & GitHub** – Version control & project management  
+- 🔧 **Git & GitHub** – Version control & project management
+
+<img alt="Snake animation" src="https://profile-readme-generator.com/assets/snake.svg" />
+
 
 
 ## 📊 GitHub Stats:
