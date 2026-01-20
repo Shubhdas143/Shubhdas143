@@ -55,13 +55,17 @@ Networking  Wireshark  Linux  OWASP  Threat-Detection
 </p><p align="left">
 
 
-**Tools I actively use & practice with:**
+<!-- **Tools I actively use & practice with:**
 - 🧪 **Wireshark** – Network traffic analysis & packet inspection  
 - 🔍 **OWASP ZAP** – Web application vulnerability scanning  
 - 💻 **VS Code & IntelliJ IDEA** – Development & scripting  
 - 🐧 **Kali Linux** – Security testing & labs  
 - 🔧 **Git & GitHub** – Version control & project management
+-->
+## 🎓 Know More About Me
+➡️ A concise summary of my technical skills, academic background, and cybersecurity experience.
 
+➡️ Click here to view my [Resume](https://drive.google.com/file/d/1TZQZy1MMoyJ2fWXToxJVvsXbyUqERWu9/view?usp=sharing)
 
 ## 🌟 Support
 <p>
