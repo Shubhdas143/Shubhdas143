@@ -63,9 +63,10 @@ Networking  Wireshark  Linux  OWASP  Threat-Detection
 - 🔧 **Git & GitHub** – Version control & project management
 -->
 ## 🎓 Know More About Me
+➡️ Click here to view my [Resume](https://drive.google.com/file/d/1TZQZy1MMoyJ2fWXToxJVvsXbyUqERWu9/view?usp=sharing)
+
 ➡️ A concise summary of my technical skills, academic background, and cybersecurity experience.
 
-➡️ Click here to view my [Resume](https://drive.google.com/file/d/1TZQZy1MMoyJ2fWXToxJVvsXbyUqERWu9/view?usp=sharing)
 
 ## 🌟 Support
 <p>
