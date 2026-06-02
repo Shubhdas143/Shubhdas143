@@ -105,8 +105,6 @@ Networking  Wireshark  Linux  OWASP  Threat-Detection
 
 
 
-## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Shubhdas143&theme=dark&hide_border=false)<br/>
 
 
 
