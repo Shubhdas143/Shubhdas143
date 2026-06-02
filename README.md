@@ -81,7 +81,7 @@ Networking  Wireshark  Linux  OWASP  Threat-Detection
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
   </a>
 
-  <a href="https://x.com/home">
+  <a href="https://x.com/Shubhdas143">
     <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="Twitter"/>
   </a>
 
