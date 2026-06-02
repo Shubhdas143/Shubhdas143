@@ -64,11 +64,11 @@ Networking  Wireshark  Linux  OWASP  Threat-Detection
 - 🐧 **Kali Linux** – Security testing & labs  
 - 🔧 **Git & GitHub** – Version control & project management
 -->
-## 🎓 Know More About Me 
+<!--🎓 Know More About Me 
 ➡️ Click here to view my [Resume](https://drive.google.com/file/d/19bRg3lTICF-8HUQCTaVcXb6f3E9rWMB3/view?usp=sharing)
 
 ➡️ A concise summary of my technical skills, academic background, and cybersecurity experience.
-
+-->
 
 ## 🌟 Support
 <p>
