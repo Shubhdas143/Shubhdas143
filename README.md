@@ -70,6 +70,30 @@ Networking  Wireshark  Linux  OWASP  Threat-Detection
 ➡️ A concise summary of my technical skills, academic background, and cybersecurity experience.
 -->
 
+<h2>🌐 Connect With Me</h2>
+
+<p align="left">
+  <a href="https://linkedin.com/in/shubhdas143">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/shubhdas143/">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+  </a>
+
+  <a href="https://x.com/home">
+    <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="Twitter"/>
+  </a>
+
+  <a href="https://leetcode.com/u/shubhdas143">
+    <img src="https://cdn.simpleicons.org/leetcode" height="50" alt="LeetCode"/>
+  </a>
+
+  <a href="mailto:shubhdas29004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
+  </a>
+</p>
+
 ## 🌟 Support
 <p>
   <a href="https://buymeacoffee.com/shubhdas143">
