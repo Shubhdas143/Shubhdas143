@@ -25,11 +25,11 @@ Networking  Blue-Team  SIEM  Packet-Analysis  Threat-Detection
 ┌──(shubhdas㉿soc-lab)-[~]
 └─$ skills
 
-[+] Wazuh              [+] Wireshark
-[+] Linux              [+] Kali Linux
-[+] Networking         [+] SIEM
-[+] Packet Analysis    [+] Threat Detection
-[+] Blue Team Ops      [+] Log Analysis
+[+] Wazuh              [+] Wireshark           [+] Log Analysis
+[+] Linux              [+] Kali Linux          [+] Threat Detection
+[+] Networking         [+] SIEM.               [+] Packet Analysis
+    
+
 ```
 
 
