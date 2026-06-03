@@ -27,7 +27,7 @@ Networking  Blue-Team  SIEM  Packet-Analysis  Threat-Detection
 
 [+] Wazuh              [+] Wireshark           [+] Log Analysis
 [+] Linux              [+] Kali Linux          [+] Threat Detection
-[+] Networking         [+] SIEM.               [+] Packet Analysis
+[+] Networking         [+] SIEM                [+] Packet Analysis
 ```
 
 
