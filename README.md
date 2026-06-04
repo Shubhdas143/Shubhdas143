@@ -58,7 +58,7 @@ Networking  Blue-Team  SIEM  Packet-Analysis  Threat-Detection
   <img src="https://skillicons.dev/icons?i=kali" height="50" alt="Kali Linux"/>
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" height="50" alt="Wireshark"/>
-</p><p align="left">
+</p><p align="left"> 
 
 
 <!-- **Tools I actively use & practice with:**
