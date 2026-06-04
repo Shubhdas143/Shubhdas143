@@ -54,6 +54,7 @@ Networking  Blue-Team  SIEM  Packet-Analysis  Threat-Detection
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/>
   <img src="https://skillicons.dev/icons?i=idea" height="50" alt="IntelliJ IDEA"/>
+ <img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="Ubuntu"/>
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux"/>
   <img src="https://skillicons.dev/icons?i=kali" height="50" alt="Kali Linux"/>
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
