@@ -11,7 +11,7 @@
 </p> 
  
    
-## 🔐 About Me    
+## 🔐 About Me     
  
 ```bash
 ┌──(shubhdas㉿cybersec)-[~/profile]
