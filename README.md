@@ -1,4 +1,4 @@
- <h1 align="center">                      
+ <h1 align="center">                       
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=E50914&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Shubhranshu+Shekhar+Das;Cybersecurity+Student+%7C+SOC+%7C+Blue+Team;Defensive+Security+%7C+Threat+Detection" /> 
 </h1> 
 <p align="center">  
