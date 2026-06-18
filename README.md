@@ -12,7 +12,7 @@
  
      
 ## 🔐 About Me      
- 
+  
 ```bash
 ┌──(shubhdas㉿cybersec)-[~/profile]
 └─$ whoami
