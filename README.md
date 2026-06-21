@@ -102,10 +102,6 @@ Networking  Blue-Team  SIEM  Packet-Analysis  Threat-Detection
     <img src="https://cdn.simpleicons.org/leetcode" height="50" alt="LeetCode"/>
   </a>
 
-  <a href="mailto:shubhdas29004@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
-  </a>
-</p>
 
 ## 🌟 Support
 <p>
