@@ -102,6 +102,10 @@ Networking  Blue-Team  SIEM  Packet-Analysis  Threat-Detection
     <img src="https://cdn.simpleicons.org/leetcode" height="50" alt="LeetCode"/>
   </a>
 
+  <a href="https://tryhackme.com/p/shubhranshudas143">
+  <img src="https://cdn.simpleicons.org/tryhackme/white" height="50" alt="TryHackMe"/>
+</a>
+
 
 ## 🌟 Support
 <p>
