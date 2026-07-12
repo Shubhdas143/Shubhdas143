@@ -3,7 +3,7 @@
 </h1>   
 <p align="center">                 
   <img src="https://komarev.com/ghpvc/?username=shubhdas143&style=flat-square&color=E50914"/> 
-</p>     
+</p>      
      
 <p align="center">     
   <b>Cybersecurity student focused on defensive security, network analysis, and SOC operations.</b><br/>
