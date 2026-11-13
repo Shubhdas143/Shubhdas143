@@ -64,12 +64,15 @@ Networking  Blue-Team  SIEM  Packet-Analysis  Threat-Detection
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/>
   <img src="https://skillicons.dev/icons?i=idea" height="50" alt="IntelliJ IDEA"/>
- <img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="Ubuntu"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="Ubuntu"/>
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux"/>
   <img src="https://skillicons.dev/icons?i=kali" height="50" alt="Kali Linux"/>
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" height="50" alt="Wireshark"/>
-</p><p align="left"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" height="50" alt="Wireshark"/>
+  <img src="https://www.splunk.com/content/dam/splunk2/images/logos/splunk/splunk-white-black-bg.png" height="50" alt="Splunk"/>
+  <img src="https://cdn.simpleicons.org/elastic/005571" height="50" alt="Elastic"/>
+  <img src="https://cdn.simpleicons.org/wazuh/005571" height="50" alt="Wazuh"/>
+</p>
 
 
 <!-- **Tools I actively use & practice with:**
