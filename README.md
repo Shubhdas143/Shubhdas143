@@ -16,7 +16,7 @@
 ```bash
 ┌──(shubhdas㉿cybersec)-[~/profile]
 └─$ whoami
-Cybersecurity Student | SOC & Defensive Security Enthusiast
+Cybersecurity Student | SOC Analyst | Blue Teamer
 
 ┌──(shubhdas㉿cybersec)-[~/focus]
 └─$ ls
