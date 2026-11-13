@@ -20,14 +20,14 @@ Cybersecurity Student | SOC & Defensive Security Enthusiast
 
 ┌──(shubhdas㉿cybersec)-[~/focus]
 └─$ ls
-Networking  Blue-Team  SIEM  Packet-Analysis  Threat-Detection
+Networking  Blue-Team  SIEM  Log-Analysis  Threat-Detection
 
 ┌──(shubhdas㉿soc-lab)-[~]
 └─$ skills
 
-[+] Wazuh              [+] Wireshark           [+] Log Analysis
+[+] Splunk             [+] Wazuh               [+] Log Analysis
 [+] Linux              [+] Kali Linux          [+] Threat Detection
-[+] Networking         [+] SIEM                [+] Packet Analysis
+[+] Networking         [+] SIEM                [+] Elastic
 ```
 
 
