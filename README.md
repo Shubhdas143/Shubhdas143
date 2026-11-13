@@ -71,7 +71,7 @@ Networking  Blue-Team  SIEM  Packet-Analysis  Threat-Detection
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" height="50" alt="Wireshark"/>
   <img src="https://www.splunk.com/content/dam/splunk2/images/logos/splunk/splunk-white-black-bg.png" height="50" alt="Splunk"/>
   <img src="https://cdn.simpleicons.org/elastic/005571" height="50" alt="Elastic"/>
-  <img src="https://cdn.simpleicons.org/wazuh/005571" height="50" alt="Wazuh"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" height="50" alt="Wazuh"/>
 </p>
 
 
