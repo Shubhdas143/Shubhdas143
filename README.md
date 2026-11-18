@@ -22,7 +22,7 @@ Cybersecurity Student | SOC Analyst | Blue Teamer
 └─$ ls
 Networking  Blue-Team  SIEM  Log-Analysis  Threat-Detection
 
-┌──(shubhdas㉿soc-lab)-[~]
+┌──(shubhdas㉿soc-lab)-[~] 
 └─$ skills
 
 [+] Splunk             [+] Wazuh               [+] Log Analysis
