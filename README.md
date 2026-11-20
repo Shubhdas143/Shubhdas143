@@ -88,7 +88,7 @@ Networking  Blue-Team  SIEM  Log-Analysis  Threat-Detection
 ➡️ A concise summary of my technical skills, academic background, and cybersecurity experience.
 -->
 
-<h2>🌐 Connect With Me</h2> 
+<h2>🌐 Connect With Me </h2> 
 
 <p align="left">
   <a href="https://linkedin.com/in/shubhdas143">
